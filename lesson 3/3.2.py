@@ -4,7 +4,7 @@
 
 from random import randint
 
-list_nums = [randint(1, 54) for _ in range(int(input()))]
+list_nums = [randint(1, 17) for _ in range(int(input()))]
 
 print(list_nums)
 num = int(input())
